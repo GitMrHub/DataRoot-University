@@ -7,3 +7,6 @@ The program consists of different online activities: top MOOCs in the best possi
 Math Overview
 
 [Python](https://github.com/ValeriiSielikhov/DataRoot-University/tree/master/week%202/Python%20lab)
+
+[Python Libraries for Data Science](https://github.com/ValeriiSielikhov/DataRoot-University/tree/master/week%203/libs_lab)
+
