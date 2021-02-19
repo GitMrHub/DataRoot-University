@@ -10,3 +10,5 @@ Math Overview
 
 [Python Libraries for Data Science](https://github.com/ValeriiSielikhov/DataRoot-University/tree/master/week%203/libs_lab)
 
+[Supervised Learning](https://github.com/ValeriiSielikhov/DataRoot-University/tree/master/week%204)
+
