@@ -5,7 +5,8 @@
 During the intense 8-module learning cycle, you will study all the essential theory needed for full-cycle data science project development.
 The program consists of different online activities: top MOOCs in the best possible order, labs, Kaggle competitions, tests, and full-cycle projects.
 
-Math Overview\n
+Math Overview
+
 We will overview all the necessary math fields for comfortable dive into the world of Machine Learning. By the end of this week, you'll refresh your knowledge of Calculus, Linear Algebra, and Probability Theory. You'll validate your knowledge by passing the test at the end of the week.
 
 [Python](https://github.com/ValeriiSielikhov/DataRoot-University/tree/master/week%202/Python%20lab)
