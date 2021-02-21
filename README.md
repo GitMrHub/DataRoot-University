@@ -29,3 +29,7 @@ The next two weeks will be dedicated to working with Unsupervised Learning techn
 
 During the next two weeks, you'll be tasked to solve different real-life machine learning problems. You'll get more understanding of how the real data looks like and how to process it. Also, you'll get a fast overview of Machine Learning libraries such as Scikit-Learn and XGBoost with off-the-shelf algorithms. You'll apply your knowledge working on Kaggle competitions, your results will be also validated automatically by our system.
 
+[RESTful APIs and Containerization](https://github.com/ValeriiSielikhov/DataRoot-University/tree/master/week%207/app)
+
+Every Data Scientist should be able to expose his own results to the world, and in lots of cases, it cannot be accomplished by only visualizing your results, especially when you work in a development team. You need to able able to create fast API. We will guide you through a simple API framework called Flask. By the end of this week, you'll be able to write simple RESTful APIs. Another important thing when you create an exposable model is the ability to make sure that it will run everywhere. Docker gives you such a level of virtualization to which you'll dedicate one more week. Knowledge of Flask and Docker will be validated by a test.
+
